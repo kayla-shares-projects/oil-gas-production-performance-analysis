@@ -1,0 +1,4 @@
+-- Data Cleaning Script
+-- Purpose: Prepare production data for analytical querying
+-- Source: Raw production reporting dataset
+-- Output: Cleaned production table for analysis
