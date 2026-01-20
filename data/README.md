@@ -14,4 +14,11 @@ The `cleaned/` folder contains processed versions of the raw data used for analy
 - Derive analytical fields (e.g., response duration, reporting lag)
 
 ## Notes
-Any assumptions, exclusions, or known data limitations encountered during cleaning will be documented alongside the cleaning scripts.
+Any assumptions, exclusions, or known data limitations encountered during cleaning are documented as they make themselves relevant. So far, they are as follows:
+
+-- Known Data Quality Issues
+- NULL production volumes exist and are excluded from volume-based metrics
+- Negative production values represent adjustments and are treated separately from performance metrics
+- Zero production records are retained to reflect inactivity periods
+- Asset identification is limited to county-level FIPS codes
+- Records with missing FIPS codes are excluded from geographic analysis
