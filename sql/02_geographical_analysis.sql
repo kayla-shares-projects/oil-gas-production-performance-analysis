@@ -1,4 +1,4 @@
--- Question 1: How is total production distributed geographically by county over time?
+--# Question 1: How is total production distributed geographically by county over time?
 select sum(volume) as volume_sum, fips_code, extract (year from production_date) as by_year
 from geographical_analysis
 group by by_year, fips_code
