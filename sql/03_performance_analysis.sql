@@ -68,5 +68,3 @@ SELECT
 FROM rankedprod rp
 JOIN latestyear ly ON rp.fips_code = ly.fips_code
 WHERE rp.prodrank = 1
-
---Comments:
