@@ -7,7 +7,7 @@ The goal is to evaluate production behavior over time rather than optimize indiv
 
 ## Stakeholders
 - Development & Production teams with a vested interest in identifying growth areas
-- Petroleum regulators who want to understand what
+- Petroleum regulatory bodies aiming to both enforce safety and enable profit and production
 - Operations performance analysts in need of statistical support in making investment decisions
 - Energy sector business intelligence teams that could use these analyses to manage decline
 
