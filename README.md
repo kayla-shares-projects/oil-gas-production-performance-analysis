@@ -6,10 +6,10 @@ This project analyzes oil and gas production data to assess asset performance, p
 The goal is to evaluate production behavior over time rather than optimize individual wells, which would require detailed engineering and real-time operational data.
 
 ## Stakeholders
-- Development & Production (D&P) teams
-- Petroleum regulators
-- Operations performance analysts
-- Energy sector business intelligence teams
+- Development & Production teams with a vested interest in identifying growth areas
+- Petroleum regulators who want to understand what
+- Operations performance analysts in need of statistical support in making investment decisions
+- Energy sector business intelligence teams that could use these analyses to manage decline
 
 ## Key Questions
 - How does production volume change over time?
